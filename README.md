@@ -1,5 +1,5 @@
 # Etapa-Desafio-Target
-Repositório para envio dos desafios propostos.
+Repositório para envio dos desafios propostos que foram resolvidos utilizando NodeJS, versão v16.14.2.
 
 1) Observe o trecho de código abaixo:
 int INDICE = 13, SOMA = 0, K = 0;
