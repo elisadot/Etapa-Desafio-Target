@@ -1,13 +1,13 @@
-const indice = 13
-var soma = 0
+const index = 13
+var sum = 0
 var k = 0
 
-while (k < indice) {
+while (k < index) {
     k = k + 1
-    soma = soma + k
+    sum = sum + k
 }
 
-console.log(soma);
+console.log(sum);
 
 // O valor da variável soma será 91. Isso porque a cada repetição do laço while, a variável k
 // terá +1 adicionado ao seu valor, e a variável soma terá o novo valor de k adicionado ao seu valor

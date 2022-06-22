@@ -1,11 +1,11 @@
-const numero = 12
+const number = 12
 var fibonacci = [0, 1]
-var indice = 0
+var index = 0
 
-while (numero > fibonacci[fibonacci.length-1]) {
-    fibonacci.push(fibonacci[indice]+fibonacci[indice+1])
+while (number > fibonacci[fibonacci.length-1]) {
+    fibonacci.push(fibonacci[index]+fibonacci[index+1])
     indice+=1
 }
 
 console.log(fibonacci)
-console.log(fibonacci.includes(numero)? true : false)
+console.log(fibonacci.includes(number)? true : false)
